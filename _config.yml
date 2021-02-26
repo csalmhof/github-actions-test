@@ -1,1 +1,15 @@
-theme: jekyll-theme-minimal
+title: GH-Pages-Test
+lang: en
+description: Testing Jekyll Theme
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+scss:
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
